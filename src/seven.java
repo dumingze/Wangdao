@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class seven {
+public class Seven {
 //没有使用while循环
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
